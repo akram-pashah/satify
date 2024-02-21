@@ -1,0 +1,24 @@
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\bin\Debug\net7.0\Domain.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\obj\Debug\net7.0\Domain.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\bin\Debug\net7.0\Domain.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\obj\Debug\net7.0\Domain.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Domain\obj\Debug\net7.0\ref\Domain.dll

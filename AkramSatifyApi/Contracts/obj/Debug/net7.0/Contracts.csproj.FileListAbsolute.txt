@@ -1,0 +1,26 @@
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\bin\Debug\net7.0\Contracts.deps.json
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\bin\Debug\net7.0\Contracts.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\bin\Debug\net7.0\Contracts.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\obj\Debug\net7.0\Contracts.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\obj\Debug\net7.0\Contracts.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Contracts\obj\Debug\net7.0\ref\Contracts.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\bin\Debug\net7.0\Contracts.deps.json
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\bin\Debug\net7.0\Contracts.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\bin\Debug\net7.0\Contracts.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\Contracts.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\Contracts.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\ref\Contracts.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\bin\Debug\net7.0\Domain.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\bin\Debug\net7.0\Domain.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Contracts\obj\Debug\net7.0\Contracts.csproj.CopyComplete

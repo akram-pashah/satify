@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Ranjitha\\SatifyMobileApp\\AkramSatifyApi\\Satify\\wwwroot\\images\\categories\\1\\Fruits.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\1\\Fruits.jpg"
+    },
+    {
+      "Id": "D:\\Ranjitha\\SatifyMobileApp\\AkramSatifyApi\\Satify\\wwwroot\\images\\categories\\2\\Vegetables.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\2\\Vegetables.jpg"
+    },
+    {
+      "Id": "D:\\Ranjitha\\SatifyMobileApp\\AkramSatifyApi\\Satify\\wwwroot\\images\\categories\\3\\Fruits.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\3\\Fruits.jpg"
+    },
+    {
+      "Id": "D:\\Ranjitha\\SatifyMobileApp\\AkramSatifyApi\\Satify\\wwwroot\\images\\categories\\4\\Vegetables.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\4\\Vegetables.jpg"
+    },
+    {
+      "Id": "D:\\Ranjitha\\SatifyMobileApp\\AkramSatifyApi\\Satify\\wwwroot\\images\\products\\1\\Tomato 1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\Tomato 1.jpg"
+    },
+    {
+      "Id": "D:\\Ranjitha\\SatifyMobileApp\\AkramSatifyApi\\Satify\\wwwroot\\images\\products\\1\\Tomato.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\Tomato.jpg"
+    },
+    {
+      "Id": "D:\\Ranjitha\\SatifyMobileApp\\AkramSatifyApi\\Satify\\wwwroot\\images\\products\\3\\Tomato 1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3\\Tomato 1.jpg"
+    },
+    {
+      "Id": "D:\\Ranjitha\\SatifyMobileApp\\AkramSatifyApi\\Satify\\wwwroot\\images\\products\\3\\Tomato.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3\\Tomato.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Satify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Satify.props",
+      "PackagePath": "build\\Satify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Satify.props",
+      "PackagePath": "buildMultiTargeting\\Satify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Satify.props",
+      "PackagePath": "buildTransitive\\Satify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

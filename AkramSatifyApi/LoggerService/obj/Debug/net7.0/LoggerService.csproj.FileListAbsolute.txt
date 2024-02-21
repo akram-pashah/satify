@@ -1,0 +1,30 @@
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Domain.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Domain.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\bin\Debug\net7.0\Domain.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\bin\Debug\net7.0\Domain.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll

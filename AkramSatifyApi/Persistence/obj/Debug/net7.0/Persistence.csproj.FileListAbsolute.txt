@@ -1,0 +1,30 @@
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Persistence\obj\Debug\net7.0\ref\Persistence.dll

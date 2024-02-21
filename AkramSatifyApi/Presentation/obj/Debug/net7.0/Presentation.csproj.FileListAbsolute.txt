@@ -1,0 +1,38 @@
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\bin\Debug\net7.0\Presentation.deps.json
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\bin\Debug\net7.0\Presentation.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\bin\Debug\net7.0\Presentation.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\bin\Debug\net7.0\Contracts.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\bin\Debug\net7.0\Domain.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\bin\Debug\net7.0\Services.Abstractions.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\bin\Debug\net7.0\Contracts.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\bin\Debug\net7.0\Domain.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\bin\Debug\net7.0\Services.Abstractions.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\Presentation.csproj.CopyComplete
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\Presentation.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\Presentation.pdb
+D:\Akram\Tutorial\Asp.Net Core\AccountOwnerServer\Presentation\obj\Debug\net7.0\ref\Presentation.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\bin\Debug\net7.0\Presentation.deps.json
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\bin\Debug\net7.0\Presentation.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\bin\Debug\net7.0\Presentation.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\bin\Debug\net7.0\Contracts.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\bin\Debug\net7.0\Domain.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\bin\Debug\net7.0\Services.Abstractions.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\bin\Debug\net7.0\Contracts.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\bin\Debug\net7.0\Domain.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\bin\Debug\net7.0\Services.Abstractions.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\Presentation.csproj.CopyComplete
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\Presentation.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\Presentation.pdb
+D:\Ranjitha\SatifyMobileApp\AkramSatifyApi\Presentation\obj\Debug\net7.0\ref\Presentation.dll

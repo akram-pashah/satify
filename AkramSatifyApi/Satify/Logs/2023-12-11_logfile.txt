@@ -1,0 +1,6 @@
+2023-12-11 11:58:34.0276 INFO Returned all owners from database.
+2023-12-11 13:12:18.4605 INFO Returned all owners from database.
+2023-12-11 15:07:55.5618 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-12-11 15:08:20.6380 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5626, hasn't been found in db.
+2023-12-11 15:47:34.9162 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5626, hasn't been found in db.
+2023-12-11 15:48:51.2095 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
